@@ -30,7 +30,7 @@ System.config({
     "bootstrap": "github:twbs/bootstrap@3.3.6",
     "fetch": "github:github/fetch@1.0.0",
     "font-awesome": "npm:font-awesome@4.6.3",
-    "grofit/aurelia-chart": "github:grofit/aurelia-chart@0.2.4",
+    "aurelia-chart": "github:grofit/aurelia-chart@0.2.4",
     "jquery": "npm:jquery@2.2.4",
     "text": "github:systemjs/plugin-text@0.0.3",
     "github:grofit/aurelia-chart@0.2.4": {
