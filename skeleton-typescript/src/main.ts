@@ -8,7 +8,7 @@ export function configure(aurelia: Aurelia) {
 
   //Uncomment the line below to enable animation.
   //aurelia.use.plugin('aurelia-animator-css');
-
+  aurelia.use.plugin("aurelia-chart");
   //Anyone wanting to use HTMLImports to load views, will need to install the following plugin.
   //aurelia.use.plugin('aurelia-html-import-template-loader')
 
